@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year B.Tech student in Computer Science at Andhra University
+- 🎓  Graduated B.Tech in Computer Science from Andhra University (2025)
 - 🧠 Passionate about AI, Deep Learning, LLMs, Time-Series, and Computer Vision
 - 🤖 Skilled in **PyTorch**, **TensorFlow**, **FastAPI**, **LangChain**, **OpenCV**, and **Prompt Engineering**
 - 🏆 **Top 3 finalist** in Smart India Hackathon 2023 (300+ teams)
